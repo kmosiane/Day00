@@ -1,0 +1,1 @@
+find/dir/search (|) -typef "~, #" -exec.rm-f {}/;
